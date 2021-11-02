@@ -1,0 +1,69 @@
+@font-face {
+    font-family: "Quantum" ;
+    src: url(fonts/Quantum.otf) format(OpenType, PostScript  Contours);
+}
+
+@font-face {
+    font-family: "Darktech LDR" ;
+    src: url(fonts/darktech_ldr.ttf) format(TrueType);
+}
+
+a.intro:hover {
+    border-color: transparent ;
+}
+
+a.intro:hover::after{
+    border-color: blue ;
+}
+
+a.Bvn {
+    text-decoration: none ;
+    color: white  ;
+    font-family: "Quantum" ;
+    font-size: 70px ;
+    margin-left: 450px ;
+    
+}
+
+nav.wel-bar ul {
+    list-style: none ;
+    display: inline-block ;
+}
+
+nav.wel-bar li.wel-logo img {
+    margin-left: 0px ;
+    list-style: none ;
+    width: 50px ;
+    height: 50px ;
+    display: inline-block ;
+    
+}
+
+nav.wel-bar li.wel-bvn a.Bvn {
+    margin-left: 0% ;
+    list-style: none ;
+    display: inline-block ;
+}
+
+
+Menator {
+    color: blue ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+p.here {
+    color: white ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 40px ;
+}
+
+button.random {
+    color: purple  ;
+    border-radius: 25px ;
+    border-color: purple ;
+    border: 5px ;
+    border-style: solid ;
+    width: 120px ;
+    height: 45px ;
+}
+

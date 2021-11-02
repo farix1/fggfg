@@ -1,0 +1,30 @@
+
+nav.bas ul {
+    list-style: none ;
+}
+
+nav.bas ul li.bass p.intro {
+    width: 500px ;
+    height: 180px ;
+    text-decoration: none ;
+    margin-left: 70% ;
+    color: white ;
+    font-size: 30px ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    border-style: solid ;
+    border-color: #8200ff ;
+    border-radius: 15px ;
+    padding: 8px ;
+}
+
+nav.bas ul li.bass p.hlp {
+    font-family: 'Otomanopee One', sans-serif;
+    margin-top: 19% ;
+    color: white  ;
+    font-size: 25px ;
+    width: 200px ;
+}
+
+nav.bas ul li.bass {
+    display: inline-block ;
+}
