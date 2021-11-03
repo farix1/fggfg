@@ -8,6 +8,12 @@
     src: url(fonts/darktech_ldr.ttf) format(TrueType);
 }
 
+@media (max-width:460px) {
+    a.Bvn {
+        font-size: 40px ;
+    }
+}
+
 a.intro:hover {
     border-color: transparent ;
 }
